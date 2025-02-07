@@ -24,7 +24,7 @@ npm install && npm run dev
 
 ### 3. Configure the environment
 
-change the details below in the .env to suit your database connection 
+change the .env.example to .env and change the details below in the .env to suit your database connection 
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
