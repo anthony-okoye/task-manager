@@ -1,6 +1,6 @@
 # Laravel Task Manager
 
-A simple Laravel-based task management app with drag-and-drop reordering and project-based task filtering.
+Laravel-based task management app with drag-and-drop reordering and project-based task filtering.
 
 ## Features
 - Create, edit, and delete tasks.
